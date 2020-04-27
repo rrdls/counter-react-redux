@@ -1,2 +1,0 @@
-# counterReactRedux
-Created with CodeSandbox
